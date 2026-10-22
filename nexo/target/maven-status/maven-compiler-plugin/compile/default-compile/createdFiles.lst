@@ -1,0 +1,6 @@
+nexostock\modelo\Producto.class
+nexostock\vista\Ventana$1.class
+nexostock\dao\ProductoDAO.class
+nexostock\NexoStock.class
+nexostock\db\Conexion.class
+nexostock\vista\Ventana.class
